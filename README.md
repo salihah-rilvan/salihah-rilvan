@@ -1,6 +1,11 @@
-### Hi there 👋
+### Hi everyone! 👋
 
-I am Siti Salihah.
+🔭 I’m currently an Information Systems undergraduate at Singapore Management University. I am most passionate about data science, especially, natural language processing and computer vision. Besides that, I would also be very interested in exploring data and software engineering!
+
+🌱 During my free time, I enjoy reading articles related to sociology, psychology, history, health and fitness. My other hobbies include pilates, barre and running. 
+
+📫 I am always open to new and exciting opportunities. Feel free to reach out to me at https://www.linkedin.com/in/siti-salihah-bmr/ if you would like me to contribute to your team!
+
 <!--
 **salihah-rilvan/salihah-rilvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
