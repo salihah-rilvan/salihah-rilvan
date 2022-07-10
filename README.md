@@ -1,8 +1,8 @@
 ### Hi everyone! 👋
 
-🔭 I’m currently an Information Systems undergraduate at Singapore Management University. I am most passionate about data science, especially, natural language processing and computer vision. That being said, I would also be very interested in exploring data and software engineering!
+🔭 I’m a recent Information Systems graduate from Singapore Management University. From my past projects and internships, I came to realise that I have a strong interest in backend software and data engineering.
 
-🌱 During my free time, I enjoy reading about health, fitness and food. My other hobbies include strength training, pilates, barre, running and cooking. 
+🌱 During my free time, I enjoy reading about food and different culture/traditions in the world. My other hobbies include strength training, pilates, barre, running and cooking. 
 
 📫 I am always open to new and exciting opportunities. Feel free to reach out to me at https://www.linkedin.com/in/siti-salihah-bmr/ if you would like me to contribute to your team!
 
