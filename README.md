@@ -1,6 +1,6 @@
 ### Hi everyone! 👋
 
-🔭 I’m a recent Information Systems graduate from Singapore Management University. From my past projects and internships, I came to realise that I have a strong interest in backend software and data engineering.
+🔭 I’m a recent Information Systems graduate from Singapore Management University. From my past projects and internships, I came to realise that I have a strong interest in data engineering and backend development.
 
 🌱 During my free time, I enjoy reading about food and different culture/traditions in the world. My other hobbies include strength training, pilates, barre, running and cooking. 
 
