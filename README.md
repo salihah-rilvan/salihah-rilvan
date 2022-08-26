@@ -6,6 +6,17 @@
 
 📫 I am always open to new and exciting opportunities. Feel free to reach out to me at https://www.linkedin.com/in/siti-salihah-bmr/ if you would like me to contribute to your team!
 
+
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=salihah_rilvan&count_private=true&theme=dark" />
+</a>
+
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salihah_rilvan&layout=compact&count_private=true&theme=dark" />
+</a>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=salihah_rilvan.visitor-badge&left_color=green&right_color=red)
+
 <!--
 **salihah-rilvan/salihah-rilvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
