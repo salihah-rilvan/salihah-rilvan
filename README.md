@@ -12,7 +12,7 @@
 </a>
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salihah-rilvan&hide=jupyter%20notebook,css,javascript,html&langs_count=8&count_private=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salihah-rilvan&hide=jupyter%20notebook,css,javascript,html&langs_count=8&count_private=true&theme=radical" />
 </a>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=salihah-rilvan.visitor-badge&left_color=green&right_color=red)
