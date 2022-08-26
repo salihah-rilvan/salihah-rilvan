@@ -8,7 +8,7 @@
 
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=salihah-rilvan&count_private=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=salihah-rilvan&count_private=true&theme=gruvbox" />
 </a>
 
 <a href="#">
