@@ -22,7 +22,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/siti-salihah-bmr/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ImAkhilSKumar-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/siti-salihah-bmr/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-SitiSalihah-blue?style=flat-square&logo=linkedin"></a>
   
 </p>
 
