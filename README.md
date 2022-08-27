@@ -4,7 +4,7 @@
 
 🌱 During my free time, I enjoy reading about food and different culture/traditions in the world. My other hobbies include strength training, pilates, barre, running and cooking. 
 
-📫 I am always open to new and exciting opportunities. Feel free to reach out to me at https://www.linkedin.com/in/siti-salihah-bmr/!
+📫 I am always open to new and exciting opportunities. Feel free to reach out to me at <a href="https://www.linkedin.com/in/siti-salihah-bmr/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-SitiSalihah-blue?style=flat-square&logo=linkedin"></a>!
 
 ### Languages and Frameworks:
 ![Python](https://img.shields.io/badge/python%20-%23E34F26.svg?&style=for-the-badge&logo=python&ogoColor=white)
