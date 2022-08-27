@@ -6,6 +6,10 @@
 
 📫 I am always open to new and exciting opportunities. Feel free to reach out to me at https://www.linkedin.com/in/siti-salihah-bmr/ if you would like me to contribute to your team!
 
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+
 
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=salihah-rilvan&count_private=true&theme=radical" />
