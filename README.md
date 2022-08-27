@@ -32,13 +32,6 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=salihah-rilvan.visitor-badge&left_color=green&right_color=red)
 
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/siti-salihah-bmr/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-SitiSalihah-blue?style=flat-square&logo=linkedin"></a>
-  
-</p>
 
 
 <!--
