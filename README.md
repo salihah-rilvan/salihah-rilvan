@@ -22,7 +22,7 @@
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=salihah-rilvan&count_private=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=salihah-rilvan&count_private=true&theme=light" />
 </a>
 
 <a href="#">
